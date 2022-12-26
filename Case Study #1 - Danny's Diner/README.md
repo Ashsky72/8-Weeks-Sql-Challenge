@@ -1,6 +1,6 @@
 # 🍽 Case Study #1 - Danny's Dinner 
 
-    ![image](https://raw.githubusercontent.com/Ashsky72/8-Weeks-Sql-Challenge/main/Case%20Study%20%231%20-%20Danny's%20Diner/dinner.jpg)
+   ![image](https://raw.githubusercontent.com/Ashsky72/8-Weeks-Sql-Challenge/main/Case%20Study%20%231%20-%20Danny's%20Diner/dinner.jpg)
 
 ## Table of Contents
 - [Problem Statement](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#problem-statement)
