@@ -1,5 +1,7 @@
 # 🍽 Case Study #1 - Danny's Dinner 
 
+![image] (https://raw.githubusercontent.com/Ashsky72/8-Weeks-Sql-Challenge/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/dinner.jpg)
+
 ## Table of Contents
 - [Problem Statement](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#problem-statement)
 - [Datasets](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets)
@@ -28,7 +30,7 @@ You can inspect the entity relationship diagram below
 
 ---------------------------------
 
-## Case Study Questions and Answers
+## Case Study Questions
 - What is the total amount each customer spent at the restaurant?
 
 - How many days has each customer visited the restaurant?
