@@ -1,6 +1,6 @@
 # 🍽 Case Study #1 - Danny's Dinner 
 
-![image] (https://raw.githubusercontent.com/Ashsky72/8-Weeks-Sql-Challenge/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/dinner.jpg)
+[img src] (https://raw.githubusercontent.com/Ashsky72/8-Weeks-Sql-Challenge/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/dinner.jpg)
 
 ## Table of Contents
 - [Problem Statement](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#problem-statement)
@@ -52,6 +52,3 @@ You can inspect the entity relationship diagram below
 - In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 ---------------------------------
-
-## Case Study Insights
-
