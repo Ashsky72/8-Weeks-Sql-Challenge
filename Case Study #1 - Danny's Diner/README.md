@@ -1,10 +1,11 @@
 # 🍽 Case Study #1 - Danny's Dinner 
 
 ## Table of Contents
-- [Problem Statement](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#problem-statement)
+- [Problem Statement](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#problem-statement)
 - [Datasets](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets)
-  - [Entity Relationship Diagram](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#entity-relationship-diagram-erd)
-- [Case Study Questions](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#case-study-questions)
+  - [Entity Relationship Diagram](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#entity-relationship-diagram-erd)
+- [Case Study Questions](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#case-study-question
+)
 
 ---------------------------------
 
@@ -15,9 +16,9 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ## Datasets
 Danny has shared with you 3 key datasets for this case study:
-- [sales](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/datasets/sales.csv)
-- [menu](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/datasets/menu.csv)
-- [members](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/datasets/members.csv)
+- [sales](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/sales.csv)
+- [menu](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/menu.csv)
+- [members](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/members.csv)
 
 The datasets can be found [here](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner/datasets) alongside the [dannys_diner database schema](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/datasets/case-study-1-schema.sql) <br>
 You can inspect the entity relationship diagram below
