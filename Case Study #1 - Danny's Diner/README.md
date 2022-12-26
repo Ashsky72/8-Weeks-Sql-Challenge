@@ -20,7 +20,7 @@ Danny has shared with you 3 key datasets for this case study:
 - [menu](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/menu.csv)
 - [members](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/members.csv)
 
-The datasets can be found [here](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner/datasets) alongside the [dannys_diner database schema](https://github.com/Ayo-G/Danny-Ma-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/datasets/case-study-1-schema.sql) <br>
+The datasets can be found [here](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets) alongside the [dannys_diner database schema](https://github.com/Ashsky72/8-Weeks-Sql-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Datasets/case-study-1-schema.sql) <br>
 You can inspect the entity relationship diagram below
   ### Entity Relationship Diagram (ERD)
  
@@ -43,11 +43,11 @@ You can inspect the entity relationship diagram below
 
 - Which item was purchased just before the customer became a member?
 
-- What is the total items and amount spent for each member before they became a member?
+- What are the total items and amount spent for each member before they became a member? 
 
 - If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
-- In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and     B have at the end of January?
+- In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 ---------------------------------
 
